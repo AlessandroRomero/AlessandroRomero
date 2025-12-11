@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alessandro
-### Computer Science Student | Developer | Problem Solver
+### Computer Science Student | Developer | Aspiring AI Researcher
 I’m Alessandro — a freshman Computer Science student based in the United States.
 
 I love programming and building anything I can imagine. If I decide to make something, I’ll find a way to get it done.
