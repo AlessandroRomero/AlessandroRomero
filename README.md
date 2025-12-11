@@ -1,21 +1,14 @@
-## Hi there 👋
+I’m Alessandro — a freshman Computer Science student based in the United States.
 
-I am Alessandro, a freshman studying computer science based in the United States.
+I love programming and building anything I can imagine. If I decide to make something, I’ll find a way to get it done.
 
-I program and build whatever I can imagine.
+My main tech stacks include Python, C, Lua, and I primarily work in PyCharm and VS Code. My favorite tools are my whiteboard and my laptop.
 
-If I ever want to program anything chances are I will get it done.
+I'm currently working on a game project and constantly exploring new ideas.
 
-My main tech stacks are PyCharm, VS Code, Python, C, Lua. My favorite tools are my whiteboard and my laptop.
+**Fun Facts:**
+• I play football  
+• I hate apples  
+• I love penguins  
 
-I am currently working on a project on a game.
-
-Fun Facts:
-
-I play football
-
-I hate apples
-
-I love penguins
-
-Hobbies: gym, football, problem solving.
+**Hobbies:** gym, football, problem solving
