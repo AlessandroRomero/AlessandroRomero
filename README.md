@@ -7,6 +7,7 @@ My main tech stacks include Python, C, Lua, and I primarily work in PyCharm and 
 I'm currently working on a game project and constantly exploring new ideas.
 
 **Fun Facts:**
+
 • I play football  
 • I hate apples  
 • I love penguins  
